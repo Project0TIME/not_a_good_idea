@@ -1,7 +1,7 @@
 accept_key = keyboard_check_pressed(vk_space);
 
 textbox_x =  camera_get_view_x(view_camera[0]);
-textbox_y =  camera_get_view_y(view_camera[0]) + 244;
+textbox_y =  camera_get_view_y(view_camera[0]) + 28 * scale_y;
 
 if setup == false
 {
@@ -15,7 +15,7 @@ if setup == false
 	{
 		text_lenght[p] = string_length(text[p]);
 		
-		text_x_offset[p] = 44;
+		text_x_offset[p] = 40;
 	}
 }
 
