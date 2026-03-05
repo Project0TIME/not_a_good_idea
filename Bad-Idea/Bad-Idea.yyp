@@ -37,8 +37,8 @@
     {"id":{"name":"sys_menu","path":"objects/sys_menu/sys_menu.yy",},},
     {"id":{"name":"Dialouge_Testroom","path":"rooms/Dialouge_Testroom/Dialouge_Testroom.yy",},},
     {"id":{"name":"Menu_Screen","path":"rooms/Menu_Screen/Menu_Screen.yy",},},
-    {"id":{"name":"PointAndClickTest","path":"rooms/PointAndClickTest/PointAndClickTest.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"PointAndClick_Test","path":"rooms/PointAndClick_Test/PointAndClick_Test.yy",},},
+    {"id":{"name":"TopDown_Test","path":"rooms/TopDown_Test/TopDown_Test.yy",},},
     {"id":{"name":"dino","path":"sprites/dino/dino.yy",},},
     {"id":{"name":"Textbox","path":"sprites/Textbox/Textbox.yy",},},
     {"id":{"name":"tileset","path":"sprites/tileset/tileset.yy",},},
@@ -47,10 +47,10 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"PointAndClickTest","path":"rooms/PointAndClickTest/PointAndClickTest.yy",},},
+    {"roomId":{"name":"PointAndClick_Test","path":"rooms/PointAndClick_Test/PointAndClick_Test.yy",},},
     {"roomId":{"name":"Menu_Screen","path":"rooms/Menu_Screen/Menu_Screen.yy",},},
     {"roomId":{"name":"Dialouge_Testroom","path":"rooms/Dialouge_Testroom/Dialouge_Testroom.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"TopDown_Test","path":"rooms/TopDown_Test/TopDown_Test.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
