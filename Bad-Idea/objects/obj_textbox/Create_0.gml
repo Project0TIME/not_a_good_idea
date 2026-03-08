@@ -17,12 +17,14 @@ txtb_img_spd = 0;
 
 page_number = 0
 page = 0;
-text[0] = "Hi im Thomas rex and here to solve a case";
-text[1] = "my favourite food are dino nuggies, but not the t-rex ones";
-text[2] = "because everytime i eat those they make me feel like a cannibal";
-text[3] = "Japan is turning footsteps into electricity! Using piezoelectric tiles, every step you take generates a small amount of energy. Millions of steps together can power LED lights and displays in busy places like Shibuya Station. A brilliant way to create a sustainable and smart city -- turning movement into clean, renewable energy";
+text[0] = "";
 text_lenght[0] = string_length(text[0]);
 draw_char = 0;
 text_speed = 1;
+
+option[0] = "";
+option_link_id[0] = -1;
+option_pos = 0;
+option_number = 0;
 
 setup = false;
