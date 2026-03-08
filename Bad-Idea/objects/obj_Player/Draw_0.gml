@@ -12,5 +12,5 @@ draw_set_alpha(0.3);
 draw_ellipse(x - 10*scale, y - 4*scale, x + 10*scale, y, false);
 draw_set_alpha(1);
 
-draw_sprite_ext(dino, 0, x, y-14, scale*facing, scale, 0, c_white, 1);
+draw_sprite_ext(spr_dino, 0, x, y-14, scale*facing, scale, 0, c_white, 1);
 

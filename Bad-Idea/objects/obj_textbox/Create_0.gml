@@ -11,7 +11,7 @@ textbox_height = 27* scale_y;
 border = 2.5 * scale_x;
 line_sep = 2.5 * scale_y;
 line_width = textbox_width - border*2;
-txtb_spr = Textbox;
+txtb_spr[0] = Textbox;
 txtb_img = 0;
 txtb_img_spd = 0;
 
@@ -36,3 +36,5 @@ setup = false;
 
 scr_set_defaults_for_text()
 last_free_space = 0;
+text_pause_timer = 0;
+text_pause_time = 16;

@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"dino",
-    "path":"sprites/dino/dino.yy",
+    "name":"spr_dino",
+    "path":"sprites/spr_dino/spr_dino.yy",
   },
   "spriteMaskId":null,
   "visible":true,
