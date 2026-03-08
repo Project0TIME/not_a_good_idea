@@ -1,9 +1,4 @@
-position = 0;
-
-
-
-
-
+selected_pos = 0;
 
 
 menu[0] = "New Game";
