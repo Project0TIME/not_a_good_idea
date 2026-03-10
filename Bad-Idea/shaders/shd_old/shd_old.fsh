@@ -10,7 +10,9 @@ void main()
 	
 	vec4 modif = temp ;
 	
-	modif.rgb = (modif.r + modif.g + modif.b) / 3.0 ;
+	modif.r = (modif.r + modif.g + modif.b) / 3.0 ;
+	modif.g = (modif.r + modif.g + modif.b) / 3.0 ;
+	modif.b = (modif.r + modif.g + modif.b) / 3.0 ;
 	
 	gl_FragColor = modif ;
 	
