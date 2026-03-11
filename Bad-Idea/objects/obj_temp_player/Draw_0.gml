@@ -1,3 +1,3 @@
-shader_set(shd_old);
+//shader_set(shd_old);
 draw_self();
-shader_reset();
+//shader_reset();
