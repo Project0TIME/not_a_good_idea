@@ -16,11 +16,12 @@ function scr_game_text(_text_id){
 			// -1 as third variable to display speaker on other side for dialouge
 			scr_text("they make me feel like a canibal", "dino angry", -1);
 				//please define options after the whole text and nestet like this to increase readability
+				// First variable is the Displayed text in a string and secound variable is the porition of dialouge that is triggerd when option is selected
 				scr_option("I eat tires", "npc 1 - tire");
 				scr_option("I eat fuel", "npc 1 - fuel");
 			//at the end of every case there has to be a break
 			break;
-			// please define the dialouge for options nested like this
+			// please define the dialouge for options nested like this and make sure the options are the exact string you had in options
 			case "npc 1 - tire":
 				scr_text("really");
 				break;
