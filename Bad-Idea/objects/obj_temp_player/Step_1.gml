@@ -1,4 +1,6 @@
 /// @description Move Calculator
+
+//you can customise the keys/inputs
  {
 	m_left = keyboard_check(vk_left);
 	m_right = keyboard_check(vk_right);
