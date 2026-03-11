@@ -67,9 +67,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Dialouge_Testroom","path":"rooms/Dialouge_Testroom/Dialouge_Testroom.yy",},},
     {"roomId":{"name":"room_temp_testing","path":"rooms/room_temp_testing/room_temp_testing.yy",},},
     {"roomId":{"name":"Menu_Screen","path":"rooms/Menu_Screen/Menu_Screen.yy",},},
-    {"roomId":{"name":"Dialouge_Testroom","path":"rooms/Dialouge_Testroom/Dialouge_Testroom.yy",},},
     {"roomId":{"name":"PointAndClick_Test","path":"rooms/PointAndClick_Test/PointAndClick_Test.yy",},},
     {"roomId":{"name":"TopDown_Test","path":"rooms/TopDown_Test/TopDown_Test.yy",},},
   ],
