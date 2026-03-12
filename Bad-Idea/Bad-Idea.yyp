@@ -44,6 +44,7 @@
     {"id":{"name":"obj_vehicle","path":"objects/obj_vehicle/obj_vehicle.yy",},},
     {"id":{"name":"sys_menu","path":"objects/sys_menu/sys_menu.yy",},},
     {"id":{"name":"pe_empty","path":"particles/pe_empty/pe_empty.yy",},},
+    {"id":{"name":"pe_old","path":"particles/pe_old/pe_old.yy",},},
     {"id":{"name":"Dialouge_Testroom","path":"rooms/Dialouge_Testroom/Dialouge_Testroom.yy",},},
     {"id":{"name":"Menu_Screen","path":"rooms/Menu_Screen/Menu_Screen.yy",},},
     {"id":{"name":"PointAndClick_Test","path":"rooms/PointAndClick_Test/PointAndClick_Test.yy",},},
