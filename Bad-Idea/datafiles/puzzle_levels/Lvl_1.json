@@ -1,0 +1,23 @@
+[
+    [
+        {
+            "orient": "h",
+            "col": 0,
+            "row": 2,
+            "size": 2,
+            "red": true
+        },
+        {
+            "orient": "v",
+            "col": 3,
+            "row": 0,
+            "size": 3
+        },
+        {
+            "orient": "h",
+            "col": 4,
+            "row": 4,
+            "size": 2
+        }
+    ]
+]
