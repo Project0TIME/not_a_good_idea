@@ -8,3 +8,6 @@ sprite[left] = spr_temp_player_left;
 sprite[down] = spr_temp_player_down;
 
 _dir = down;
+
+
+_tele = false;
