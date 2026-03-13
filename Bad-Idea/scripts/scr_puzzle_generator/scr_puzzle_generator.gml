@@ -11,8 +11,8 @@ function load_level(_json_path) {
     for (var i = 0; i < array_length(_obstacles); i++) {
         var _v = _obstacles[i];
         var _inst = instance_create_layer(
-            GRID_ORIGIN_X + _v.col * CELL_SIZE,
-            GRID_ORIGIN_Y + _v.row * CELL_SIZE,
+            global.GRID_ORIGIN_X + _v.col * global.CELL_SIZE,
+            global.GRID_ORIGIN_Y + _v.row * global.CELL_SIZE,
             "Instances",
             obj_vehicle
         );
